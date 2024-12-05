@@ -1,2 +1,14 @@
 .env
 __pycache__/
+
+# Virtual environments - comprehensive list
+.venv/
+.venv
+venv/
+env/
+ENV/
+virtualenv/
+.Python
+pyvenv.cfg
+.env
+.python-version
